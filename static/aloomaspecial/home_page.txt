@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1.  How much does tree stump removal cost nationwide?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The average cost to remove a tree stump typically ranges from $150 to $450. Factors like the stump's diameter, wood density, and soil conditions (like rocky or clay-heavy earth) can influence the final price.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">2.  Is it better to grind a stump or remove it entirely?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Stump grinding is faster and less invasive, leaving the deep roots to decay naturally. Full tree stump removal involves excavating the entire root ball, which is more expensive but necessary if you plan to build a structure or plant a new tree in the exact same spot.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">3.  Can I remove a tree stump myself using chemicals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While you can use a stump removal chemical like potassium nitrate, it is a very slow process that can take several months or even years. For fast stump removal, professional grinding is the only immediate solution.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">4.  What do you do with the wood chips after grinding?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer several options: we can backfill the hole with the mulch, leave it for you to use in your garden, or haul it away for a small additional fee. Most customers prefer using it as a natural stump out mulch.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">5.  How long does the average stump grinding take?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">A standard medium-sized stump usually takes about 30 to 60 minutes to grind. Large stump removal or jobs with complex root systems may take longer, but we always strive for the most efficient service possible.</p>
+                <div class="callalooma mx-auto"><a href="tel:833-435-4424">Click Here To Call Us (833) 435-4424</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
